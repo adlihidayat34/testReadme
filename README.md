@@ -8,6 +8,6 @@
 
 <p>ne<sup>w p<span class="ql-cursor">﻿</span></sup></p>
 
-<p>n<strong>ew</strong> pq<em>wdas </em>das<s> dAWf</s> a<u>fawq </u><span style="background-color: white;">fasfegaw</span> fasfw</p><ol><li>afsaf</li></ol>
+<p>n<strong>ew</strong> pq<em>wdas </em>das<s> dAWf</s> a<u>fawq </u><span style="background-color: white;">fasfegaw</span> <u>fasfw</u></p><ol><li>afsaf</li></ol>
 
 <p>new p</p>
