@@ -1,25 +1,13 @@
-<h1 align="center"><strong><em>ss</em></strong>dasddddndddd as das afasf asfasf</h1>
+<h4><strong>The complete setup (optional)</strong></h4>
 
-<h2>asdasdasddddddd as </h2>
+<p>Ready to add more? Below is a demo that shows how you could set up a basic toolbar. Feel free to take it and start customizing it to your needs:ddd as das afasf asfasf</p>
 
-<h3>asdasd</h3>
+<p>Ready to add more? Below is a demo that shows how you could set up a basic toolbar. Feel free to take it and start customizing it to your needs:ddd as das afasf asfasf</p>
 
-<h4 align="right">das afasf asf</h4>
+<pre><code>.tiptap &gt; ol {
+  list-style-type: decimal;
+  margin: 0 0 15px 0;
+}</code></pre><p>f</p>
 
-<p align="center">asfnajksndakjf wkjfsajfasklnflaf sndakjf w</p>
-
-<ul><li><p align="center">kjfsajfasndakjf wkjfsajfa sndakjf wkjfsajfa snd</p>
-
-</li></ul><p align="center"></p>
-
-<ol><li><p align="center"></p>
-
-</li><li><p>asdsadakjf wkjfsajfasndakjf wkjf</p>
-
-</li></ol><pre><code>sajfasndakjf wkjfsajfa sndakjf w
-</code></pre><p align="center">kjfsajfa sndakjf wkjfsajfa sndakjf wkjfsajfa<img src="https://th.bing.com/th?id=OSK.e2caab8a3316564caaf70fa7a2b1eef5&amp;w=102&amp;h=102&amp;c=7&amp;o=6&amp;dpr=1.8&amp;pid=SANGAM" alt=""></p>
-
-<p>asnfjals fjasfnasf</p>
-
-<p></p>
+<p><img src="https://th.bing.com/th?id=OSK.e2caab8a3316564caaf70fa7a2b1eef5&amp;w=102&amp;h=102&amp;c=7&amp;o=6&amp;dpr=1.8&amp;pid=SANGAM" alt=""></p>
 
