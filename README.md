@@ -1,4 +1,4 @@
-<h1>I am < code > Jing Hua < /code>, an undergraduate student from NTU, Singapore.</h1 >
+<h1>I am <code> Jing Hua </code>, an undergraduate student from NTU, Singapore.</h1 >
 
 <ul><li><p>📚 Business and Computer Science junior < /p></li >
  < li > <p>💬 English(en) 中文(zh) 日本語(ja) ภาษาไทย(th) Svenska(sv) < /p></li >
